@@ -38,4 +38,4 @@ I build intelligent, production-ready applications powered by AI. From computer 
 - 💼 LinkedIn: [linkedin.com/in/sriram-lankireddy](https://linkedin.com/in/sriram-lankireddy)
 - 📧 Email: sriram.lankireddy@gmail.com
 
-🎯 **Currently seeking New Grad SWE roles for 2025!**
+🎯 **Currently seeking New Grad SWE roles for 2026!**
